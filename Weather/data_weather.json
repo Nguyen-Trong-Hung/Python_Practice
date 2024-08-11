@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Hanoi",
+        "region": "",
+        "country": "Vietnam",
+        "lat": 21.03,
+        "lon": 105.85,
+        "tz_id": "Asia/Bangkok",
+        "localtime_epoch": 1723050556,
+        "localtime": "2024-08-08 00:09"
+    },
+    "current": {
+        "last_updated_epoch": 1723050000,
+        "last_updated": "2024-08-08 00:00",
+        "temp_c": 27.3,
+        "temp_f": 81.1,
+        "is_day": 0,
+        "condition": {
+            "text": "Patchy rain nearby",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+            "code": 1063
+        },
+        "wind_mph": 6.0,
+        "wind_kph": 9.7,
+        "wind_degree": 144,
+        "wind_dir": "SE",
+        "pressure_mb": 1005.0,
+        "pressure_in": 29.68,
+        "precip_mm": 0.24,
+        "precip_in": 0.01,
+        "humidity": 88,
+        "cloud": 79,
+        "feelslike_c": 32.0,
+        "feelslike_f": 89.6,
+        "windchill_c": 27.3,
+        "windchill_f": 81.1,
+        "heatindex_c": 32.0,
+        "heatindex_f": 89.6,
+        "dewpoint_c": 25.1,
+        "dewpoint_f": 77.2,
+        "vis_km": 9.0,
+        "vis_miles": 5.0,
+        "uv": 1.0,
+        "gust_mph": 10.7,
+        "gust_kph": 17.2
+    }
+}
