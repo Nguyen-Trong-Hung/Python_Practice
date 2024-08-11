@@ -12,8 +12,8 @@
             #while b > 0:
 # Function: def inchuoi(a, b, ...) :
             #   print()                                     inchuoi(1, 2, ...)
-a = "Hung" 
-b = "love" 
+a = "Hung"
+b = "love"
 c = "Ha"
 print(a + " really " + b + " " + c)
 print(4*a + 4*c)
